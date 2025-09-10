@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: Habitats on the deep-sea bed with significant elevation (typically >200m)
     in relation to their surroundings. Includes permanently submerged flanks of oceanic
@@ -11,10 +11,10 @@ labels:
     abyssal hills (A6.74) and carbonate mounds (A6.75).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Raised features of the deep-sea bed
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A6_7/1/

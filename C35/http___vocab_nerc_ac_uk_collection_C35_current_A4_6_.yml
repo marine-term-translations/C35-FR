@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: 'Rock habitats in the Baltic infralittoral zone which are sheltered from
     wave action, currents or ice scouring. The exposure status is that impacting on
@@ -14,10 +14,10 @@ labels:
     the Baltic.'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Baltic sheltered circalittoral rock
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A4_6/1/

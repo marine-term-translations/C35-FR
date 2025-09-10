@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: A water column which is unmixed or only partially mixed because the depth
     of the water body is greater than the depth of mixing. Salinity is reduced relative
@@ -16,11 +16,11 @@ labels:
     to double) and long residence time lasting longer than 14 days.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Partially mixed water column with reduced salinity and medium or long
     residence time
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A7_4/1/

@@ -3,18 +3,18 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: Habitats on the deep-sea bed significantly below the deep-sea bed, including
     deep ocean trenches, often greater than 6000 m depth with an active margin reduction
     zone (A6.82), and downslope or along-slope channels on the deep-sea bed (A6.81).
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Deep-sea trenches and canyons, channels, slope failures and slumps on
     the continental slope
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A6_8/1/

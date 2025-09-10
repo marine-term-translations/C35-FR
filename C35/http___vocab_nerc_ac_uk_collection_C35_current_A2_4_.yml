@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: 'Shores of mixed sediments ranging from muds with gravel and sand components
     to mixed sediments with pebbles, gravels, sands and mud in more even proportions.
@@ -20,10 +20,10 @@ labels:
     category.'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Littoral mixed sediments
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_4/1/
