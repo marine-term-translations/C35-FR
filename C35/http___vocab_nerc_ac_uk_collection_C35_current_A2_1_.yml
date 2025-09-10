@@ -1,31 +1,17 @@
 labels:
-- name: altLabel
-  original: ''
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - fr: to be filled in
-- name: definition
-  original: 'Littoral coarse sediments include shores of mobile pebbles, cobbles and
-    gravel, sometimes with varying amounts of coarse sand. The sediment is highly
-    mobile and subject to high degrees of drying between tides. As a result, few species
-    are able to survive in this environment. Beaches of mobile cobbles and pebbles
-    tend to be devoid of macroinfauna, while gravelly shores may support limited numbers
-    of crustaceans, such as [Pectenogammarus planicrurus]. Situation: Littoral coarse
-    sediments are found along relatively exposed open shores, where wave action prevents
-    finer sediments from settling. Coarse sediments may also be present on the upper
-    parts of shores where there are more stable, sandy biotopes on the lower and mid
-    shore. Temporal variation: The sediment particle size structure may vary seasonally,
-    with relatively finer sediments able to settle during calmer conditions in summer.
-    Where the sediment grain size is very large (at the interface between sediment
-    and boulder shores), cobbles may be mobile during exposed winter conditions, but
-    stable enough during summer months to support limited juvenile rocky shore epifauna
-    (e.g. juvenile barnacles).'
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - fr: to be filled in
-- name: prefLabel
-  original: Littoral coarse sediment
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - fr: to be filled in
-uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_1/1/
+  - name: "altLabel"
+    original: ""
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - fr: "to be filled in"
+  - name: "definition"
+    original: "Littoral coarse sediments include shores of mobile pebbles, cobbles and gravel, sometimes with varying amounts of coarse sand. The sediment is highly mobile and subject to high degrees of drying between tides. As a result, few species are able to survive in this environment. Beaches of mobile cobbles and pebbles tend to be devoid of macroinfauna, while gravelly shores may support limited numbers of crustaceans, such as [Pectenogammarus planicrurus]. Situation: Littoral coarse sediments are found along relatively exposed open shores, where wave action prevents finer sediments from settling. Coarse sediments may also be present on the upper parts of shores where there are more stable, sandy biotopes on the lower and mid shore. Temporal variation: The sediment particle size structure may vary seasonally, with relatively finer sediments able to settle during calmer conditions in summer. Where the sediment grain size is very large (at the interface between sediment and boulder shores), cobbles may be mobile during exposed winter conditions, but stable enough during summer months to support limited juvenile rocky shore epifauna (e.g. juvenile barnacles)."
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - fr: "Les sédiments grossiers littoraux comprennent des rives de cailloux mobiles, de pavés et de gravier, parfois avec des quantités variables de sable grossier. Le sédiment est très mobile et soumis à des degrés élevés de séchage entre les marées. En conséquence, peu d'espèces sont capables de survivre dans cet environnement. Les plages de pavés mobiles et de galets ont tendance à être dépourvus de macroinfaune, tandis que les côtes graveleuses peuvent soutenir un nombre limité de crustacés, tels que [Pectenogammarus planicrurus]. Situation: les sédiments grossiers littoraux se trouvent le long des rives ouvertes relativement exposées, où l'action des vagues empêche les sédiments plus fins de s'installer. Des sédiments grossiers peuvent également être présents sur les parties supérieures des rives où il y a des biotopes sablonneux plus stables sur le rivage inférieur et moyen. Variation temporelle: La structure de taille des particules de sédiments peut varier de façon saisonnière, avec des sédiments relativement plus fins capables de s'installer dans des conditions plus calmes en été. Lorsque la taille des grains de sédiments est très grande (à l'interface entre les sédiments et les rives de rochers), les pavés peuvent être mobiles dans des conditions d'hiver exposées, mais suffisamment stables pendant les mois d'été pour soutenir l'épifaune à rive rocheuse juvénile limitée (par exemple les granges juvéniles)."
+  - name: "prefLabel"
+    original: "Littoral coarse sediment"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - fr: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A2_1/1/"
