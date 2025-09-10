@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Rock habitats in the Baltic infralittoral zone which are exposed to wave action, currents or ice scouring. The exposure status is that impacting on the area concerned at the relevant scale. Thus there may be enclaves of different exposure status caused by localised variation in relief (e.g. steeper rock in more moderately exposed or even sheltered areas). Note that it has been proposed that ?exposed? has an effective fetch of greater than 25 km: this requires verification across the Baltic."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Baltic exposed circalittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A4_4/1/"

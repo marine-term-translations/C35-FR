@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Deep-sea benthic habitats with substrates predominantly of sand."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Deep-sea sand"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A6_3/1/"

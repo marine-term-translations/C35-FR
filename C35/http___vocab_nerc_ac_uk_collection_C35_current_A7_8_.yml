@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A water column which is unmixed or only partially mixed because the depth of the water body is greater than the depth of mixing. Salinity is the same as that in adjacent seawater. Unstratified water columns have very weak or no horizontal or vertical gradients."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Unstratified water column with full salinity"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A7_8/1/"

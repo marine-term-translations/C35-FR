@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Moderately exposed shores (bedrock, boulders and cobbles) characterised by mosaics of barnacles and fucoids on the mid and upper shore; with fucoids and red seaweed mosaics on the lower shore. Where freshwater or sand-scour affects the shore ephemeral red or green seaweeds can dominate. Other shores support communities of mussels and fucoids in the mid to lower shore. Two biological subtypes have been described: barnacles and fucoids (A1.21) and mussels and fucoids (A1.22)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Moderate energy littoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A1_2/1/"

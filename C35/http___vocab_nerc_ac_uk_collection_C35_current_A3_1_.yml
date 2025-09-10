@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Rocky habitats in the infralittoral zone subject to exposed to extremely exposed wave action or strong tidal streams. Typically the rock supports a community of kelp [Laminaria hyperborea] with foliose seaweeds and animals, the latter tending to become more prominent in areas of strongest water movement. The depth to which the kelp extends varies according to water clarity, exceptionally (e.g. St Kilda) reaching 45 m. The sublittoral fringe is characterised by dabberlocks [Alaria esculenta]."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Atlantic and Mediterranean high energy infralittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A3_1/1/"

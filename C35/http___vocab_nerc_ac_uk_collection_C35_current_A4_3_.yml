@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Occurs on wave-sheltered circalittoral bedrock and boulders subject to mainly weak/very weak tidal streams. The biotopes identified within this habitat type are often dominated by encrusting red algae, brachiopods ([Neocrania anomala]) and ascidians ([Ciona intestinalis] and [Ascidia mentula])."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Atlantic and Mediterranean low energy circalittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A4_3/1/"

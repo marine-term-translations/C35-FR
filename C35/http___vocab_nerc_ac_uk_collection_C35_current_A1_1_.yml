@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Extremely exposed to moderately exposed or tide-swept bedrock and boulder shores. Extremely exposed shores dominated by mussels and barnacles, occasionally with robust fucoids or turfs of red seaweed. Tide-swept shores support communities of fucoids, sponges and ascidians on the mid to lower shore. Three biological subtypes have been described: Communities on very exposed to moderately exposed upper and mid eulittoral bedrock and boulders dominated by the mussel [Mytilus edulis], barnacles [Chthamalus] spp. and/or [Semibalanus balanoides] and the limpets [Patella] spp. (A1.11); red and brown seaweeds able to tolerate the extreme conditions of exposed rocky shores, primarily the physical stresses caused by wave action (A1.12), and tide-swept shores in more sheltered areas (such as narrow channels in sea loch) with canopy forming fucoids and a rich filter-feeding community (A1.15)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "High energy littoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A1_1/1/"

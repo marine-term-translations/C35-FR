@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Clean medium to fine sands or non-cohesive slightly muddy sands on open coasts, offshore or in estuaries and marine inlets. Such habitats are often subject to a degree of wave action or tidal currents which restrict the silt and clay content to less than 15%. This habitat is characterised by a range of taxa including polychaetes, bivalve molluscs and amphipod crustacea."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sublittoral sand"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A5_2/1/"

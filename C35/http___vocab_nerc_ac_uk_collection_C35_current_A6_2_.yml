@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Deep-sea benthic habitats with substrates predominantly of mixed particle size or gravel. Includes habitats with mobile substrates of biogenic origin but no longer living, and of allochthonous material such as macrophyte debris. Deep-sea habitats with living biogenic substrates are included in A6.6."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Deep-sea mixed substrata"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A6_2/1/"

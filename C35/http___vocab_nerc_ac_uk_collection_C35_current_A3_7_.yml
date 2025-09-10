@@ -1,0 +1,26 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Includes surge gulleys (A3.71), which are found throughout the infralittoral
+    rock zone, and usually consist of vertical bedrock walls, occasionally with overhanging
+    faces, and support communities, which reflect the degree of wave surge they are
+    subject to and any scour from mobile substrata on the cave/gully floors. The larger
+    cave and gully systems, such as found in Shetland, Orkney, the Western Isles and
+    St Kilda, typically show a marked zonation from the entrance to the rear of the
+    gully/cave as wave surge increases and light reduces. Also includes habitats in
+    hard substrata in the infralittoral zone characterised by the presence of seeping
+    or bubbling gases, oils or water (A3.73) and recently colonised artificial hard
+    substrata in the infralittoral zone (A3.72).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Features of infralittoral rock
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A3_7/1/

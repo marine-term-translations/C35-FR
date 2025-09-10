@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The Littoral Biogenic Reefs habitat contains two biological subtypes, littoral [Sabellaria] reefs (A2.71) and mixed sediment shores with mussels (A2.72), encompassing the littoral biotope dominated by the honeycomb worm [Sabellaria alveolata], and littoral [Mytilus edulis]- dominated communities. [S. alveolata] can form honeycomb reefs on mid to lower shore on exposed coasts, where there is a plentiful supply of sediment. The underlying substratum may consist primarily of rock or stable cobbles and boulders, or of cobbles and boulders on sand. Mixed sediment shores characterised by beds of adult mussels [Mytilus edulis] occur principally on mid and lower eulittoral mixed substrata (mainly cobbles and pebbles on muddy sediments) in a wide range of exposure conditions. In high densities the mussels bind the substratum and provide a habitat for many infaunal and epifaunal species. Temporal variation: [S. alveolata] reefs may be susceptible to storm damage in the winter, although they can regenerate remarkably quickly in a season as long as some adults are left as they facilitate the larval settlement. [S. alveolata] is tolerant to burial under sand for several weeks. Changes in desiccation over a period of time can cause part of the population to die. One of the mussel-dominated subtypes, A2.7212, could change to A2.7213 over time as pseudofaeces build up forming a layer of mud. This cannot happen where wave action or tidal streams wash away pseudofaeces and prevent a build up. In areas where mussel spat ("mussel crumble") settles on the surface shell layer of cockle beds, the mussel cover may be ephemeral."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Littoral biogenic reefs"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A2_7/1/"

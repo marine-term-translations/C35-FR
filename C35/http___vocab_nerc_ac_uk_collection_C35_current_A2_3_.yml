@@ -1,0 +1,34 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: 'Shores of fine particulate sediment, mostly in the silt and clay fraction
+    (particle size less than 0.063 mm in diameter), though sandy mud may contain up
+    to 40% sand (mostly very fine and fine sand). Littoral mud typically forms extensive
+    mudflats, though dry compacted mud can form steep and even vertical structures,
+    particularly at the top of the shore adjacent to saltmarshes. Little oxygen penetrates
+    these cohesive sediments, and an anoxic layer is often present within millimetres
+    of the sediment surface. Littoral mud can support communities characterised by
+    polychaetes, bivalves and oligochaetes. Most muddy shores are subject to some
+    freshwater influence, as most of them occur along the shores of estuaries. Mudflats
+    on sheltered lower estuarine shores can support a rich infauna, whereas muddy
+    shores at the extreme upper end of estuaries and which are subject to very low
+    salinity often support very little infauna. Situation: Muddy shores are principally
+    found along the shores of estuaries where there is enough shelter from wave action
+    to allow fine sediment to settle. Muddy shores may also be present in sheltered
+    inlets, straits and embayments which are not part of major estuarine systems.
+    Temporal variation: [Enteromorpha] spp. and [Ulva lactuca] may form mats on the
+    surface of the mud during the summer months, particularly in areas of nutrient
+    enrichment or where there is significant freshwater influence.'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Littoral mud
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_3/1/

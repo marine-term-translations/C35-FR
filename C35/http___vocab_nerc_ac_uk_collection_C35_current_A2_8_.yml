@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Features of littoral sediment include littoral habitats characterised by the presence of gases or liquids bubbling or seeping through sediments (A2.81); areas which are characterised by pioneer or ephemeral red and green algae because of variations in salinity and/or siltation (A2.82); and sedimentary shores of non-tidal, reduced salinity waters which are below the mean water level and normally water-covered, but which are regularly or occasionally exposed by the action of wind (hydrolittoral zone in the Baltic) (A2.83-A2.87)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Features of littoral sediment"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A2_8/1/"

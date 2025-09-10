@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Circalittoral rock features include circalittoral fouling communities (A4.72) and circalittoral caves and overhangs (A4.71). These features are present throughout the circalittoral zone in a variety of wave exposures and tidal streams. Two fouling subtypes have also been identified: A4.722 has been recorded from disused fishing nets and other artificial substrata, and is characterised by aggregations of [Ascidiella aspersa] whilst A4.721 has been recorded from steel wrecks, and is characterised by dense aggregations of [Alcyonium digitatum] and [Metridium senile]. Habitats in hard substrata in the circalittoral zone characterised by the presence of seeping or bubbling gases, oils or water are also included (A4.73)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Features of circalittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A4_7/1/"

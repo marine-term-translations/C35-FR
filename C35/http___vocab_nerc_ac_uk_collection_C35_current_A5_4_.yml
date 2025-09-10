@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Sublittoral mixed (heterogeneous) sediments found from the extreme low water mark to deep offshore circalittoral habitats. These habitats incorporate a range of sediments including heterogeneous muddy gravelly sands and also mosaics of cobbles and pebbles embedded in or lying upon sand, gravel or mud. There is a degree of confusion with regard nomenclature within this complex as many habitats could be defined as containing mixed sediments, in part depending on the scale of the survey and the sampling method employed. The BGS trigon can be used to define truly mixed or heterogeneous sites with surficial sediments which are a mixture of mud, gravel and sand. However, another 'form ' of mixed sediment includes mosaic habitats such as superficial waves or ribbons of sand on a gravel bed or areas of lag deposits with cobbles/pebbles embedded in sand or mud and these are less well defined and may overlap into other habitat or biological subtypes. These habitats may support a wide range of infauna and epibiota including polychaetes, bivalves, echinoderms, anemones, hydroids and Bryozoa. Mixed sediments with biogenic reefs or macrophyte dominated communities are classified separately in A5.6 and A5.5 respectively."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sublittoral mixed sediments"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A5_4/1/"

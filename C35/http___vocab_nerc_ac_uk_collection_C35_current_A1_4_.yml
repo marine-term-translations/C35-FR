@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Littoral rock features include rockpools (A1.41, A1.42), ephemeral algae (A1.45) and caves (A1.44) in the intertidal zone (the area of the shore between high and low tides). These features are present throughout the littoral rock zone from the upper limit at the top of of the lichen zone and the lower limit by the top of the laminarian kelp zone. These features can be found on most rocky shores regardless of wave exposure. Lichens can be found in the supralittoral zone on shores with suitable substratum. The lichen band is wider and more distinct on more exposed shores. Rockpools occur where the topography of the shore allows seawater to be retained within depressions in the bedrock producing 'pools ' on the retreat of the tide. As these rockpool communities are permanently submerged they are not directly affected by height on the shore and normal rocky shore zonation patterns do not apply allowing species from the sublittoral to survive. Ephemeral seaweeds occur on disturbed littoral rock in the lower to upper shore. The shaded nature of caves and overhangs diminishes the amount of desiccation suffered by biota during periods of low tides which allows certain species to proliferate. In addition, the amount of scour, wave surge, sea spray and penetrating light determines the unique community assemblages found in upper, mid and lower shore caves, and on overhangs on the lower shore. Non-tidal areas irregularly exposed by wind action (hydrolittoral) with hard substrata are also included here. Note that lichens and algae crusts in the supralittoral zone are coastal habitats (B3.11)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Features of littoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A1_4/1/"

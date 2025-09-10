@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Dominants are [Eleocharis acicularis], [Eleocharis parvula], [Zostera]
+    spp.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Littoral sediments dominated by aquatic angiosperms
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_6/1/

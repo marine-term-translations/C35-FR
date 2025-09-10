@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Sheltered to extremely sheltered rocky shores with very weak to weak tidal streams are typically characterised by a dense cover of fucoid seaweeds which form distinct zones (the wrack [Pelvetia canaliculata] on the upper shore through to the wrack [Fucus serratus] on the lower shore). Where salinity is reduced (such as at the head of a sea loch or where streams run across the shore) [Fucus ceranoides] may occur. Fucoids also occur on less stable, mixed substrata (cobbles and pebbles on sediment) although in lower abundance and with fewer associated epifaunal species; beds of mussels [Mytilus edulis] are also common. In summer months, dense blankets of ephemeral green and red seaweeds can dominate these mixed shores. Two biological subtypes have been described: Dense blankets of fucoid seaweeds dominating sheltered, fully marine littoral rocky shores (A1.31) and fucoids dominating variable salinity rocky shores (A1.32)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Low energy littoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A1_3/1/"

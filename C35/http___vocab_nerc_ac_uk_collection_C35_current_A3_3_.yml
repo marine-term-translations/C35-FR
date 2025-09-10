@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Infralittoral rock in wave and tide-sheltered conditions, supporting silty communities with [Laminaria hyperborea] and/or [Laminaria saccharina] (A3.31). Associated seaweeds are typically silt-tolerant and include a high proportion of delicate filamentous types. In turbid-water estuarine areas, the kelp and seaweeds (A3.32) may be replaced by animal-dominated communities (A3.36) whilst stable hard substrata in lagoons support distinctive communities (A3.34)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Atlantic and Mediterranean low energy infralittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A3_3/1/"

@@ -1,0 +1,22 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: A water column which is unmixed or only partially mixed because the depth
+    of the water body is greater than the depth of mixing. Salinity is the same as
+    that in adjacent seawater. Horizontal gradients give rise to fronts, which are
+    separated at level 4 by the degree of persistence of the stratification ? ephemeral
+    such as eddies, gyres and upwellings; seasonal upwellings; or persistent water
+    mass interfaces.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Fronts in full salinity water column
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A7_A/1/

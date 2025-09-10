@@ -1,0 +1,31 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: 'Littoral coarse sediments include shores of mobile pebbles, cobbles and
+    gravel, sometimes with varying amounts of coarse sand. The sediment is highly
+    mobile and subject to high degrees of drying between tides. As a result, few species
+    are able to survive in this environment. Beaches of mobile cobbles and pebbles
+    tend to be devoid of macroinfauna, while gravelly shores may support limited numbers
+    of crustaceans, such as [Pectenogammarus planicrurus]. Situation: Littoral coarse
+    sediments are found along relatively exposed open shores, where wave action prevents
+    finer sediments from settling. Coarse sediments may also be present on the upper
+    parts of shores where there are more stable, sandy biotopes on the lower and mid
+    shore. Temporal variation: The sediment particle size structure may vary seasonally,
+    with relatively finer sediments able to settle during calmer conditions in summer.
+    Where the sediment grain size is very large (at the interface between sediment
+    and boulder shores), cobbles may be mobile during exposed winter conditions, but
+    stable enough during summer months to support limited juvenile rocky shore epifauna
+    (e.g. juvenile barnacles).'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Littoral coarse sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_1/1/

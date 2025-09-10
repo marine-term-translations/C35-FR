@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: This habitat type includes polychaete reefs, bivalve reefs (e.g. mussel
+    beds) and cold water coral reefs. These communities develop in a range of habitats
+    from exposed open coasts to estuaries, marine inlets and deeper offshore habitats
+    and may be found in a variety of sediment types and salinity regimes.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Sublittoral biogenic reefs
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A5_6/1/

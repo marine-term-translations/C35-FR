@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Predominantly moderately wave-exposed bedrock and boulders, subject to moderately strong to weak tidal streams. On the bedrock and stable boulders there is typically a narrow band of kelp [Laminaria digitata] in the sublittoral fringe which lies above a [Laminaria hyperborea] forest and park. Associated with the kelp are communities of seaweeds, predominantly reds and including a greater variety of more delicate filamentous types than found on more exposed coasts (cf. A3.11)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Atlantic and Mediterranean moderate energy infralittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A3_2/1/"

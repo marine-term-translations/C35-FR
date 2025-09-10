@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A water column which is completely and actively mixed, and influenced by freshwater so that the salinity is reduced relative to the adjacent fully marine seawater. This habitat type is usually found in relatively shallow, coastal situations, and is the result of river inflow or ice melt. Note that some discretion should be used in the interpretation of ?adjacent?, for example in the Baltic Sea, ?adjacent? fully marine seawater is reached only in the Kattegat."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Completely mixed water column with reduced salinity"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A7_2/1/"

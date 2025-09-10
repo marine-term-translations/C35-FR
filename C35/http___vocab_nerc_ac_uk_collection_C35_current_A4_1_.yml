@@ -1,0 +1,25 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Occurs on extremely wave-exposed to exposed circalittoral bedrock and
+    boulders subject to tidal streams ranging from strong to very strong. Typically
+    found in tidal straits and narrows. The high energy levels found within this habitat
+    complex are reflected in the fauna recorded. Sponges such as [Pachymatisma johnstonia],
+    [Halichondria panicea], [Esperiopsis fucorum] and [Myxilla incrustans] may all
+    be recorded. Characteristic of this habitat complex is the dense 'carpet ' of
+    the hydroid [Tubularia indivisa]. The barnacle [Balanus crenatus] is recorded
+    in high abundance on the rocky substrata. On rocky outcrops, [Alcyonium digitatum]
+    is often present.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Atlantic and Mediterranean high energy circalittoral rock
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A4_1/1/

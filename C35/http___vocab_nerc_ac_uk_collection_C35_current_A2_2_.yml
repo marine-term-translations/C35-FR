@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Shores comprising clean sands (coarse, medium or fine-grained) and muddy sands with up to 25% silt and clay fraction. Shells and stones may occasionally be present on the surface. The sand may be duned or rippled as a result of wave action or tidal currents. Littoral sands exhibit varying degrees of drying at low tide depending on the steepness of the shore, the sediment grade and the height on the shore. The more mobile sand shores are relatively impoverished (A2.22), with more species-rich communities of amphipods, polychaetes and, on the lower shore, bivalves developing with increasing stability in finer sand habitats (A2.23). Muddy sands (A2.24), the most stable within this habitat complex, contain the highest proportion of bivalves. Situation: A strandline of talitrid amphipods (A2.211) typically develops at the top of the shore where decaying seaweed accumulates. Fully marine sandy shores occur along stretches of open coast, whilst muddy sands are often present in more sheltered lower estuarine conditions and may be subject to some freshwater influence. Temporal variation: Littoral sandy shore environments can change markedly over seasonal cycles, with sediment being eroded during winter storms and accreted during calmer summer months. The particle size structure of the sediment may change from finer to coarser during winter months, as finer sediment gets resuspended in seasonal exposed conditions. This may affect the sediment infauna, with some species only present in summer when sediments are more stable. More sheltered muddy sand shores are likely to be more stable throughout the year, but may have a seasonal cover of green seaweeds during the summer period, particularly in nutrient enriched areas or where there is freshwater input."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Littoral sand and muddy sand"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A2_2/1/"

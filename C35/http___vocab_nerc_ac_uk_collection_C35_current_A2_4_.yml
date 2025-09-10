@@ -1,0 +1,29 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: 'Shores of mixed sediments ranging from muds with gravel and sand components
+    to mixed sediments with pebbles, gravels, sands and mud in more even proportions.
+    By definition, mixed sediments are poorly sorted. Stable large cobbles or boulders
+    may be present which support epibiota such as fucoids and green seaweeds more
+    commonly found on rocky and boulder shores. Mixed sediments which are predominantly
+    muddy tend to support infaunal communities which are similar to those of mud and
+    sandy mud shores. Situation: It is probable that there are broad transition areas
+    between areas of mudflat or sandy mudflat, and mixed sediment biotopes where the
+    sediment consists principally of mud but has significant proportions of gravel
+    and sand mixed in. Gravelly mud may occur in patches on mudflats. Similarly, there
+    is unlikely to be an easily defined boundary between areas of mixed sediment with
+    stable cobbles and boulders, and boulder fields which fall into the rocky shore
+    category.'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Littoral mixed sediments
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_4/1/

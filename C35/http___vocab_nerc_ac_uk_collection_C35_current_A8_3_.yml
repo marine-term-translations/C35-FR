@@ -1,0 +1,22 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: During freezing of seawater, salt is rejected from the ice crystals. The
+    remaining brine solution forms a three-dimensional network of tubes and channels
+    with typical diameters of 200 ?m within the ice matrix. Despite the harsh environmental
+    conditions (low light intensities, low temperature, high salinity), a specialised
+    community has developed and adapted to live within the brine channel system. Minute
+    unicellular algae like diatoms are the dominant primary producers.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Brine channels
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A8_3/1/

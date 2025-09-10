@@ -1,0 +1,26 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: A water column which is unmixed or only partially mixed because the depth
+    of the water body is greater than the depth of mixing. Salinity is reduced relative
+    to the adjacent fully marine seawater. This habitat type is usually found in deeper
+    coastal water situations and is the result of river inflow or ice melt. Note that
+    some discretion should be used in the interpretation of ?adjacent?, for example
+    in the Baltic Sea, ?adjacent? fully marine seawater is reached only in the Kattegat.
+    Medium residence time is defined as changing over time preiods greater than daily
+    and up to about 14 days (based on the time required for the phytoplankton population
+    to double) and long residence time lasting longer than 14 days.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Partially mixed water column with reduced salinity and medium or long
+    residence time
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A7_4/1/

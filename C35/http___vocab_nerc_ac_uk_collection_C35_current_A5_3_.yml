@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Sublittoral mud and cohesive sandy mud extending from the extreme lower shore to offshore, circalittoral habitats. This biotope is predominantly found in sheltered harbours, sealochs, bays, marine inlets and estuaries and stable deeper/offshore areas where the reduced influence of wave action and/or tidal streams allow fine sediments to settle. Such habitats are often by dominated by polychaetes and echinoderms, in particular brittlestars such as [Amphiura] spp. Seapens such as [Virgularia mirabilis] and burrowing megafauna including [Nephrops norvegicus] are common in deeper muds. Estuarine muds tend to be characterised by infaunal polychaetes and oligochaetes."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sublittoral mud"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A5_3/1/"

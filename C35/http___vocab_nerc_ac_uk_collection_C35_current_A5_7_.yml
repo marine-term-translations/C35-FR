@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Features of sublittoral sediments include sublittoral habitats characterised
+    by the presence of gases or liquids bubbling or seeping through sediments (A5.71)
+    and sublittoral sediments which are organically-enriched or permanently or periodically
+    anoxic (A5.72).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Features of sublittoral sediments
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A5_7/1/

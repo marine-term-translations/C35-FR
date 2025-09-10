@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A water column which is unmixed or only partially mixed because the depth of the water body is greater than the depth of mixing, and with short residence time, defined as changing diurnally. Salinity is reduced relative to the adjacent fully marine seawater. This habitat type is usually found in deeper coastal water situations and is the result of river inflow or ice melt. Note that some discretion should be used in the interpretation of ?adjacent?, for example in the Baltic Sea, ?adjacent? fully marine seawater is reached only in the Kattegat. Horizontal gradients give rise to fronts, which are separated at level 4 by the degree of persistence of the stratification."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Fronts in reduced salinity water column"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A7_7/1/"

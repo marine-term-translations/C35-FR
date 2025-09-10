@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: A bioherm is a mound, dome, or reef-like mass of rock that is composed
+    almost exclusively of the remains of sedentary marine organisms and is embedded
+    in rock of different physical character. This habitat type includes deep-sea coral
+    reefs (A6.61) and sponge beds (A6.62).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Deep-sea bioherms
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A6_6/1/

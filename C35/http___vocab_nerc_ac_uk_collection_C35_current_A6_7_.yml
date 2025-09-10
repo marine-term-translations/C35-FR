@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Habitats on the deep-sea bed with significant elevation (typically >200m)
+    in relation to their surroundings. Includes permanently submerged flanks of oceanic
+    islands (A6.71), seamounts, knolls and banks (A6.72), oceanic ridges (A6.73),
+    abyssal hills (A6.74) and carbonate mounds (A6.75).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Raised features of the deep-sea bed
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A6_7/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Coarse sediments including coarse sand, gravel, pebbles, shingle and cobbles which are often unstable due to tidal currents and/or wave action. These habitats are generally found on the open coast or in tide-swept channels of marine inlets. They typically have a low silt content and a lack of a significant seaweed component. They are characterised by a robust fauna including venerid bivalves."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sublittoral coarse sediment"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A5_1/1/"

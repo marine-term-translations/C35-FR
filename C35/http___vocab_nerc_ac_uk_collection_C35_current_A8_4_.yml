@@ -1,0 +1,26 @@
+labels:
+- name: altLabel
+  original: ''
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: 'The boundary layer between sea ice and the water column with special
+    abiotic (e.g. temperature, salinity) and biotic (e.g. food resources) factors,
+    which also vary with season and region. This habitat is colonized by autochthonous
+    under-ice amphipods ([Apherusa glacialis], [Onisimus] spp., [Gammarus wilkitzkii]),
+    which live directly at the ice underside and complete their entire life-cycle
+    here, and allochthonous sub-ice fauna, organisms originating either from the ice
+    interior or the pelagic realm, which are found in this boundary layer temporarily,
+    e.g. for feeding or during certain life stages. There is some evidence that the
+    first metres below the ice are strongly stratified, particularly during the melt
+    period in summer. Source: http://www.awi-bremerhaven.de/Climate/WorkingGroups/ofis/ARK-19-1/sea-ice-biology.htm.'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Under-ice habitat
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/C35/current/A8_4/1/

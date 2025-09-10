@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: ""
+    translations:
+      - fr: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Mainly occurs on exposed to moderately wave-exposed circalittoral bedrock and boulders, subject to moderately strong and weak tidal streams. This habitat type contains a broad range of biological subtypes, from echinoderms and crustose communties (A4.21) to Sabellaria reefs (A4.22) and circalittoral mussel beds (A4.24)."
+    translations:
+      - fr: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Atlantic and Mediterranean moderate energy circalittoral rock"
+    translations:
+      - fr: ""
+uri: "http://vocab.nerc.ac.uk/collection/C35/current/A4_2/1/"
