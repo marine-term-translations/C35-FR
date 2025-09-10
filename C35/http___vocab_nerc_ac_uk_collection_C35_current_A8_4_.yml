@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: 'The boundary layer between sea ice and the water column with special
     abiotic (e.g. temperature, salinity) and biotic (e.g. food resources) factors,
@@ -17,10 +17,10 @@ labels:
     period in summer. Source: http://www.awi-bremerhaven.de/Climate/WorkingGroups/ofis/ARK-19-1/sea-ice-biology.htm.'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Under-ice habitat
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A8_4/1/
