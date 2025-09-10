@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: A water column which is unmixed or only partially mixed because the depth
     of the water body is greater than the depth of mixing. Salinity is the same as
@@ -13,10 +13,10 @@ labels:
     mass interfaces.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Fronts in full salinity water column
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A7_A/1/

@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: 'Shores of fine particulate sediment, mostly in the silt and clay fraction
     (particle size less than 0.063 mm in diameter), though sandy mud may contain up
@@ -25,10 +25,10 @@ labels:
     enrichment or where there is significant freshwater influence.'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Littoral mud
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_3/1/

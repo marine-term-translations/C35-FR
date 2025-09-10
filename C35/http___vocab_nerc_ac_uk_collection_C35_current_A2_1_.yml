@@ -3,7 +3,7 @@ labels:
   original: ''
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: definition
   original: 'Littoral coarse sediments include shores of mobile pebbles, cobbles and
     gravel, sometimes with varying amounts of coarse sand. The sediment is highly
@@ -22,10 +22,10 @@ labels:
     (e.g. juvenile barnacles).'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - fr: ''
+  - fr: to be filled in
 - name: prefLabel
   original: Littoral coarse sediment
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - fr: ''
+  - fr: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/C35/current/A2_1/1/
